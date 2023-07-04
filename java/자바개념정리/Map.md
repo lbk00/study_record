@@ -8,4 +8,8 @@
 > ` Map<Long, String> map = new HashMap<>();`
 > 
 >  map은 Long을 key값으로, String은 value값으로 저장하는 객체
+>
+>  map.put(key, value) -> 키 - 값 저장
+>
+>  map.get(key) -> key에 해당되는 값 리턴
 
