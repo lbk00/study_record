@@ -8,7 +8,7 @@ class Singleton {
 
     public static Singleton getInstance() {
         if(one==null) { // 객체가 생성되지않은 상태이면
-            one = new Singleton(); //객체를 생
+            one = new Singleton(); //객체를 생성
         }
         return one;
     }
