@@ -10,4 +10,5 @@
   - Optional<String> os1 = Optional.of(new String("Toy1")); : null을 허용하지 않음
   - Optional<String> os2 = Optional.ofNullable(new String("Toy2")); : null을 허용
 
-
+> map 메서드 : 반환하는 대상을 Optional 인스턴스에 담아서 반환
+>
