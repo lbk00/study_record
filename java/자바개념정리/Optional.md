@@ -1,6 +1,6 @@
 ### 옵셔널 클래스(Optional Class)
 
-- null 가능성에 대해서 스스로 처리하는 클래스
+- null 가능성에 대해서 스스로 처리하는 클래스 // null로 인한 if-else 문 대체 가능 / if (os1 != null) 
 
 - NPE(NullPointerException) 문제를 해결할 수 있는 방법을 제공, 즉, null 값으로 인해 에러가 발생하는 현상을 효율적으로 방지한다.
 
