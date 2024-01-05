@@ -4,6 +4,7 @@
 > 
 > 그 후, prompt로 질문을 넘겨준다
 
+```
 chat = ChatOpenAI(
     temperature=0.1 // 창의성 정도
 )
@@ -15,3 +16,4 @@ template = PromptTemplate.from_template(
 prompt = template.format(country_a="Mexico",country_b="Thailand")
 
 chat.predict(prompt)
+```
