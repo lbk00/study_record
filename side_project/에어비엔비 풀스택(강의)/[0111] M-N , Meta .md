@@ -18,7 +18,7 @@
 > 
 > `null = True` // 이 필드가 데이터베이스에서 null일 수 있음
 
-> ### startapp으로 어플리케이션을 추가 후, confif/setting.py에 추가해줘야 한다
+> ### startapp으로 어플리케이션을 추가 후, config/setting.py에 추가해줘야 한다
 >
 > 파이썬에서는 튜플을 괄호없이 표현가능
 
