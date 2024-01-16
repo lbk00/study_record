@@ -26,3 +26,12 @@
 >
 > query parameter를 활용(urls?parameter)
 
+> ### HTTP method
+>
+> #### GET: 서버로 부터 데이터를 취득
+> 
+> #### POST: 서버에 데이터를 추가, 작성 등
+> 
+> #### PUT: 서버의 데이터를 갱신, 작성 등
+> 
+> #### DELETE: 서버의 데이터를 삭제
