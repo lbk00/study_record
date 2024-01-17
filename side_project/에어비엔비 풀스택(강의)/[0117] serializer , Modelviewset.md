@@ -15,7 +15,7 @@
 > `partial=True` 이곳으로 들어오는 데이터가 완벽한 형태가 아닐수도 있음을 알려준다
 
 > ### APIView
-> if-elif문 대신 get_object로 객체를 가져온 뒤 get / put / post / delete 메서드를 수행할 수 있다
+> if-elif문 대신 `get_object`로 객체를 가져온 뒤 get / put / post / delete 메서드를 수행할 수 있다
 > 
 > serializer는 해당 모델에 있는 데이터 형식을 모두 지정해줘야하므로 비효율적
 
