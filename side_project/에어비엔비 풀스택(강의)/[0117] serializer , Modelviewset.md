@@ -6,12 +6,12 @@
 > `is_valid()`  데이터가 유효한지 검사
 >
 > `**` 딕셔너리를 가져와 형태를 바꿔준다
-```
-{ "name" : "카테고리 from DRF", "kind" : "rooms"}
-->
-name = "카테고리 from DRF"
-kind = "rooms"
-```
+> ```
+> { "name" : "카테고리 from DRF", "kind" : "rooms"}
+> ->
+> name = "카테고리 from DRF"
+> kind = "rooms"
+> ```
 > `partial=True` 이곳으로 들어오는 데이터가 완벽한 형태가 아닐수도 있음을 알려준다
 
 > ### APIView
