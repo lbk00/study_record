@@ -27,7 +27,7 @@
 >	fields = “__all__” # 보여질 필드 설정
 > ```
 
-> Modelviewset의 필요한 두가지 property
+> ### Modelviewset의 필요한 두가지 property
 > 
 > serializer_class = 어떤 Serializer인지
 > 
