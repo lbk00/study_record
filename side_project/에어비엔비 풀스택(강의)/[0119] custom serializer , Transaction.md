@@ -8,7 +8,7 @@
 > 
 > Serializer 내부에서 `field = 원하는 serializer` 로 설정할수있다
 > 
-> serializer로 post를 이용해 데이터를 생성할 때
+> 또한, post를 이용해 데이터를 생성할 때
 > 
 > 해당 필드가 입력받지않아도 됨을 표시하려면 serializer에 `read_only = True` 설정
 > 
