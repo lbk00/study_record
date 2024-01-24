@@ -1,6 +1,6 @@
 > `serializer.is_valid()`로 유효성을 검사할 때 
 >
-> #### 특정 필드의 유효성을 커스텀하려면 serializer 내부에 메서드 정의
+> ### 특정 필드의 유효성을 커스텀하려면 serializer 내부에 메서드 정의
 > 
 > `validate_원하는필드` / 검증 시 유효한 값이면 value를 리턴 , 그렇지 않다면 에러 리턴
 >
@@ -12,7 +12,7 @@
 >        return value
 >```
     
-> 모든 필드 유효성을 검사하려면 validate 메서드 정의
+> ### 모든 필드 유효성을 검사하려면 validate 메서드 정의
 > ```
 > def validate(self,data): # 모든 data를 전달받음
 >   return data
