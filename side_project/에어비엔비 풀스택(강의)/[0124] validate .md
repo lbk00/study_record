@@ -12,7 +12,7 @@
 >        return value
 >```
     
-> ### 모든 필드 유효성을 검사하려면 validate 메서드 정의
+> ### 모든 필드 유효성을 검사하려면 `validate` 메서드 정의
 > ```
 > def validate(self,data): # 모든 data를 전달받음
 >   return data
