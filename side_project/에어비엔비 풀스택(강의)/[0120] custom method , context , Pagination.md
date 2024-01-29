@@ -1,7 +1,7 @@
 > ### Serializer  커스텀 메서드 (함수 호출하는법)
 > ```
 > rating = serializers.SerializerMethodField() #rating의 값을 계산할 메서드를 만들것이라고 알려준다
-> def get_rating(self,room): #2번째 인자로 연결된 모델을 받는다. get_필드의 모양을 가져야한다
+> def get_rating(self,room): #2번째 인자로 연결된 모델을 받는다. / get_필드의 모양을 가져야한다
 >   return room.rating()# 해당 모델에 있는 메서드 호출
 > ```
 
