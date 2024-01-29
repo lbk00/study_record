@@ -1,10 +1,10 @@
 > #### 사용자 생성 후, 비밀번호를 저장할 때
 > 
-> `user.password = password` #해쉬화되지않은 비밀번호를 db에 바로 저장하는 것이므로 위험하다
+> `user.password = password` #해시화되지않은 비밀번호를 db에 바로 저장하는 것이므로 위험하다
 
 > ```
-> user.set_password(password) # django에서 비밀번호를 해쉬화
-> user.save() # db에 해쉬화된 비밀번호를 저장
+> user.set_password(password) # django에서 비밀번호를 해시화
+> user.save() # db에 해시화된 비밀번호를 저장
 > ```
 > `user.check_password(old_password):` # 기존 비밀번호와 동일한지 검사
 
