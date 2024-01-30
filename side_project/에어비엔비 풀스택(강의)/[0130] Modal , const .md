@@ -1,11 +1,17 @@
 > ### Modal
-사용자의 이목을 집중시키기 위한 그래픽 인터페이스 창
-팝업은 새로운 브라우저 페이지를 여는것으로 모달과 다름
-const{isOpen:isLoginOpen ,onClose:onLoginClose, 
-        onOpen:onLoginOpen} = useDisclosure();
-새로운 변수 이름으로 할당
-key이름을 모달마다 지정해서 바꿈
-const
-변수를 상수화 시킨다. 처음 선언할때만 값을 할당할 수 있고, 그 이후에는 값을 바꿀수 없다.
-사용자 정의 컴포넌트는 대문자로 시작해야한다
-대문자로 시작되어야 React가 컴포넌트로 인식
+> 사용자의 이목을 집중시키기 위한 그래픽 인터페이스 창
+> 
+> 팝업은 새로운 브라우저 페이지를 여는것으로 모달과 차이점이 있다
+
+> `const{isOpen:isLoginOpen ,onClose:onLoginClose, 
+>        onOpen:onLoginOpen} = useDisclosure();`
+> #### 새로운 변수 이름으로 할당
+> 
+> key이름을 모달마다 지정해서 바꿈
+
+> ### const
+> 변수를 상수화 시킨다. 처음 선언할때만 값을 할당할 수 있고, 그 이후에는 값을 바꿀수 없다.
+
+> 사용자 정의 컴포넌트는 대문자로 시작해야한다
+>
+> -> 대문자로 시작되어야 React가 컴포넌트로 인식
