@@ -3,8 +3,10 @@
 > 
 > 팝업은 새로운 브라우저 페이지를 여는것으로 모달과 차이점이 있다
 
-> `const{isOpen:isLoginOpen ,onClose:onLoginClose, 
->        onOpen:onLoginOpen} = useDisclosure();`
+> ```
+> const { isOpen:isLoginOpen ,onClose:onLoginClose, 
+> onOpen:onLoginOpen } = useDisclosure();
+> ```
 > #### 새로운 변수 이름으로 할당
 > 
 > key이름을 모달마다 지정해서 바꿈
