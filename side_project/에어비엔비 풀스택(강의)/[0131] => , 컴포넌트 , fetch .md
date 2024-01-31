@@ -21,10 +21,12 @@
 > 
 > response로 부터 원하는 데이터를 가져오기 위해 `json()`메서드 사용 ( 응답 데이터를 JSON 개체로 변환 ) 
 
- useState
-컴포넌트의 상태를 간편하게 생성하고 업데이트 해주는 도구를 제공
-const [state, setState] = useState(초기값);
-컴포넌트의 현재 상태 값은 state변수에 들어있고 state를 변경하려면 setState 함수를 이용해서 변경
-props
-프로퍼티
-상위 컴포넌트가 하위 컴포넌트에 값을 전달할때 사용하는 속성
+> ### useState
+> 컴포넌트의 상태를 간편하게 생성하고 업데이트 해주는 도구를 제공
+> 
+> `const [state, setState] = useState(초기값);`
+> 
+> 컴포넌트의 현재 상태 값은 state변수에 들어있고 state를 변경하려면 setState 함수를 이용해서 변경
+
+> ### props (프로퍼티)
+> 상위 컴포넌트가 하위 컴포넌트에 값을 전달할때 사용하는 속성
