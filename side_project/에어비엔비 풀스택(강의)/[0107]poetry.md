@@ -16,3 +16,13 @@
 > exit // poetry 종료
 
 
+1.	Mkdir 폴더 생성
+2.	Git init
+3.	Poetry 설치 
+Pip install poetry
+4.	Poerty init // poetry 생성
+5.	Poetry add django
+6.	Poetry shell // 가상환경 진입
+오류 발생시
+파워쉘- 관리자 권한 실행 후 Set-ExecutionPolicy RemoteSigned 입력
+7.	django-admin startproject ‘프로젝트 이름’ . 입력  // 프로젝트 생성
