@@ -15,7 +15,7 @@
 >
 > exit // poetry 종료
 
-
+> #### Django 프로젝트 생성
 >1.	mkdir 폴더 생성
 >2.	git init
 >3.	poetry 설치 
