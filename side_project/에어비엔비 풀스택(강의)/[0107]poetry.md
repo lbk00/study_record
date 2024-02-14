@@ -26,3 +26,4 @@
 오류 발생시
 파워쉘- 관리자 권한 실행 후 `Set-ExecutionPolicy RemoteSigned` 입력
 7.	`django-admin startproject ‘프로젝트 이름’ .` 입력  // 프로젝트 생성
+8.	git ignore 세팅
