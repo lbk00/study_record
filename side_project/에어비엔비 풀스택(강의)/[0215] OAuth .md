@@ -9,5 +9,6 @@
 >   
 > 4. 장고는 github API와 통신을 하고 사용자 정보를 얻음
 >
-> ![image](https://github.com/lbk00/study_record/assets/99525751/6d9303cf-ca28-45cc-ae0c-db4b4a2208f8)
+> ![image](https://github.com/lbk00/study_record/assets/99525751/af5463f4-daf5-4ac3-8c6b-45ce2c2fdad1)
+
 
