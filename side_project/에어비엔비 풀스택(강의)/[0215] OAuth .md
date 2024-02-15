@@ -9,6 +9,9 @@
 >   
 > 4. 장고는 github API와 통신을 하고 사용자 정보를 얻음
 >
+> https://github.com/settings/applications/new 앱 생성
 > ![image](https://github.com/lbk00/study_record/assets/99525751/af5463f4-daf5-4ac3-8c6b-45ce2c2fdad1)
 
+> ### scope
+> 사용자로부터 얻고싶은 정보
 
