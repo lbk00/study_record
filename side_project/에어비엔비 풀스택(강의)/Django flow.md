@@ -10,8 +10,8 @@
 
 > https://developer.mozilla.org/ko/docs/Learn/Server-side/Django/Introduction
 
-> 서버쪽 데이터베이스를 만드는것은 Model을 만드는것
+> 모델 : 서버의 데이터베이스
 >
-> 웹페이지 화면을 만든다 하면 Template를 만드는것
+> 뷰 : 모델과 템플릿의 중간다리 역할
 >
-> 템플릿에서 서버에 일을 시키는건 View를 만드는것
+> 템플릿 : 유저에게 브라우저로 보여지는 웹페이지
