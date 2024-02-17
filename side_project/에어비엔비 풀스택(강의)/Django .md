@@ -17,3 +17,9 @@
 > View         <->   Template
 >
 > Controller  <->    View
+
+> Django에서는 어플리케이션 단위로 웹페이지를 개발
+>
+> application기능은 프로젝트 폴더에 넣었다 뺐다 할 수 있어서 개발속도 향상에 도움
+>
+> ### 프로젝트에 application을 넣고 빼는 작업은 url을 연결시켜주는 작업과 같다
