@@ -1,4 +1,4 @@
-> > ![image](https://github.com/lbk00/study_record/assets/99525751/0ac94460-79b1-45a0-8412-6e01495a0639)
+> ![image](https://github.com/lbk00/study_record/assets/99525751/0ac94460-79b1-45a0-8412-6e01495a0639)
 >
 > ### Model
 > 서버가 가지고 있는 데이터베이스 작업
