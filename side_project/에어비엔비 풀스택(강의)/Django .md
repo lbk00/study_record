@@ -22,4 +22,7 @@
 >
 > application기능은 프로젝트 폴더에 넣었다 뺐다 할 수 있어서 개발속도 향상에 도움
 >
-> ### 프로젝트에 application을 넣고 빼는 작업은 url을 연결시켜주는 작업과 같다
+> ### 프로젝트에 application을 넣고 빼는 작업은 url을 연결시켜주는 작업과 같다 + model도 migration 해줘야 한다
+
+> ### Migration
+> 기존에 있던 프로젝트의 데이터베이스 모델에 application의 데이터베이스 모델을 이식시키는 과정
