@@ -1,0 +1,12 @@
+> > ![image](https://github.com/lbk00/study_record/assets/99525751/0ac94460-79b1-45a0-8412-6e01495a0639)
+>
+> ### Model
+> 서버가 가지고 있는 데이터베이스 작업
+>
+> ### View
+> 브라우저 상에서 사용자에게 보여지는 페이지
+>
+> ### Controller
+> Model 에다가 일을 시키는 작업. User는 뷰를 통해 컨트롤러를 실행시켜 Model에다가 작업을 요청
+> 
+> View와 Model의 중간다리 역할
