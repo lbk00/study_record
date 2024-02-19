@@ -4,10 +4,10 @@
 > ### Model
 > 서버가 가지고 있는 데이터베이스 작업
 >
-> ### View
+> ### View (Template)
 > 브라우저 상에서 사용자에게 보여지는 페이지
 >
-> ### Controller
+> ### Controller (View)
 > Model 에다가 일을 시키는 작업. User는 뷰를 통해 컨트롤러를 실행시켜 Model에다가 작업을 요청
 > 
 > View와 Model의 중간다리 역할
