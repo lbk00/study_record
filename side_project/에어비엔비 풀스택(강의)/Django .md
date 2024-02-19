@@ -1,3 +1,4 @@
+> ### MVC
 > ![image](https://github.com/lbk00/study_record/assets/99525751/0ac94460-79b1-45a0-8412-6e01495a0639)
 >
 > ### Model
@@ -11,7 +12,7 @@
 > 
 > View와 Model의 중간다리 역할
 
-> #### 장고에서는 MTV로 View와 Controller의 이름이 다르다
+> #### 장고에서는 MVC대신 MTV로 구성됨
 > Model       <->   Model
 >
 > View         <->   Template
