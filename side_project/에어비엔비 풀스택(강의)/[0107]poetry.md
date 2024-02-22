@@ -7,7 +7,7 @@
 > 
 >  파이선 버전 3.7 -> 3.12로 업그레이드 후
 > 
-> Poetry env use python // poetrty 파이썬 버전 변경 (shell 밖에서)
+> Poetry env use python // poetrty 파이썬 버전 변경 (shell 밖에서 진행)
 > 
 > python = "^3.7" -> python = "^3.12" 변경
 
