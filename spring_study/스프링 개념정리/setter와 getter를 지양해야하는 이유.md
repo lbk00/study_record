@@ -5,4 +5,4 @@
 > ### getter
 > Link : https://kong-dev.tistory.com/226
 
-> #### 무분별한 getter와 setter 사용은 객체지향 설계를 깨뜨림
+> #### 무분별한 getter와 setter 사용은 객체지향 설계(캡슐화)를 깨뜨림
