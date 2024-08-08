@@ -1,6 +1,6 @@
 ### 옵셔널 클래스(Optional Class)
 
-- null 가능성에 대해서 스스로 처리하는 클래스 // null로 인한 if-else 문 대체 가능 / if (os1 != null)
+- null 가능성에 대해서 스스로 처리하는 클래스 / null로 인한 if-else 문 대체 가능 / if (os1 != null)
   
 - null 일 수 있는 인스턴스 변수를 Optional로 선언 
 
