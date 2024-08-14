@@ -10,7 +10,7 @@
 > 
 > ### `URL?파라미터=값`
 >
-> `required = false` 옵션 추가 시 key값이 없어도 예외 발생 안함. (기본값 true)
+> `required = false` 옵션 추가 시 key값이 없어도 예외 발생 안함 (기본값 true)
  
 > ### @PathVariable
 > URL 경로에서 변수 값을 추출하여 매개변수에 할당하는 방식
